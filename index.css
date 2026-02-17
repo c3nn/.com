@@ -32,6 +32,7 @@
 		cursor: default;
 		opacity: 0.8;
 		color: var(--bg);
+		line-height: calc(0.18*var(--mw));
 		-webkit-text-stroke: 2px var(--text);
 		text-stroke: 2px var(--text);
 
